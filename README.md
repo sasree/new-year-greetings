@@ -1,2 +1,2 @@
 # to-do-list-javascript
-Creating "To Do List" using HTML, CSS and JavaScript
+Creating "To Do List" APP using HTML, CSS and JavaScript
