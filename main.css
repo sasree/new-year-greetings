@@ -1,1 +1,13 @@
 /* Add Bootstrp */
+h1{
+    padding-top: 2%;
+}
+.content {
+    padding-top: 1%;
+}
+
+.content .input-group .form-control {
+    background-color: #fff;
+    border: 1px solid #ffff;
+    /* opacity: 1; */
+}
