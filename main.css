@@ -48,7 +48,6 @@ canvas {
     animation: moveBg 30s linear infinite;
   }
 .greeting {
-  font-size: 2.2rem;
   color: rgb(255,215,0);
   background: url("https://res.cloudinary.com/nikita-rudenko/image/upload/v1544906837/stripe_c982eebe592d6c30f2034f5ce80b1fc6.png");
   background-clip: text;
